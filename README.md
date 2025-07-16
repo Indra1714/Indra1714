@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 # <span style="color:#1565c0;">Indra Singh, PhD</span>
 <span style="color:#388e3c;font-size:1.1em;">Bioinformatician</span>  
